@@ -1,3 +1,9 @@
 # データサイエンス基礎
 ## [イントロダクション](https://github.com/ueharaLab/bigdata1_introduction)
-## [pythonプログラミングの基礎1](https://github.com/ueharaLab/datascience_python1)
+## [pythonデータサイエンスプログラミングの基礎 変数と演算子](https://github.com/ueharaLab/datascience_python1)
+## [pythonデータサイエンスプログラミングの基礎　文字列](https://github.com/ueharaLab/datascience_python2)
+## [pyhonデータサイエンスプログラミングの基礎 リスト型とベクトル表現](https://github.com/ueharaLab/datascience_python3)
+## [pythonデータサイエンスプログラミングの基礎 辞書型と階層表現](https://github.com/ueharaLab/datascience_python4)
+## [pythonデータサイエンスプログラミングの基礎 リスト型と2次元配列](https://github.com/ueharaLab/datascience_python5)
+## [pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列](https://github.com/ueharaLab/datascience_python6)
+## [pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列応用](https://github.com/ueharaLab/datascience_python7)
