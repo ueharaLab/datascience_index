@@ -26,7 +26,7 @@ matplotlibによるグラフ描画　シグモイド関数を描いてみる
 ## [11. pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列応用](https://github.com/ueharaLab/datascience_python7)
 データセットの作成と演算
 
-## [12. 教師あり機械学習プログラミングの基礎]
+## [12. 教師あり機械学習プログラミングの基礎](https://github.com/ueharaLab/datascience_python8)
 既製品データ（Iris、手書き数字）にもとづく教師あり機械学習
 モデルとは何か(ニューラルネットワーク、決定木)
 
