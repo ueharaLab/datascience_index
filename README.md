@@ -4,27 +4,37 @@
 ## [3. pythonデータサイエンスプログラミングの基礎 変数と演算子](https://github.com/ueharaLab/datascience_python1)
 データセットの要素の扱い方
 ## [4. pythonデータサイエンスプログラミングの基礎　文字列](https://github.com/ueharaLab/datascience_python2)
-列見出し（特徴量見出し）の扱い方
+列見出し（特徴量見出し）の扱い方  
+**データサイエンスへの応用：うどんらしさとラーメンらしさの度数分布**
+
 
 ## [5. pyhonデータサイエンスプログラミングの基礎 関数の基礎](https://github.com/ueharaLab/datascience_python2_1_function)
 グラフによる可視化関数
 機械学習のブラックボックス関数
 
+
 ## [6. pyhonデータサイエンスプログラミングの基礎 リスト型とベクトル表現](https://github.com/ueharaLab/datascience_python3)
-教師ラベル、データセット特徴量ベクトルの作成
+教師ラベル、データセット特徴量ベクトルの作成  
+**データサイエンスへの応用：口コミの形態素解析→リスト型の要素別頻度カウント→うどん・ラーメングラフの説明 ** 
 
 
 ## [7. pyhonデータサイエンスプログラミングの基礎 numpyとベクトル表現](https://github.com/ueharaLab/datascience_python3_1)
-matplotlibによるグラフ描画　シグモイド関数を描いてみる
+**データサイエンスへの応用　シグモイド関数を描いてみる(AIの細胞)**
 
 ## [8. pythonデータサイエンスプログラミングの基礎 辞書型と階層表現](https://github.com/ueharaLab/datascience_python4)
 教師ラベルの数値化
+**データサイエンスへの応用： polygon とGeoJson　地図上への形状可視化**
+
 ## [9. pythonデータサイエンスプログラミングの基礎 リスト型と2次元配列](https://github.com/ueharaLab/datascience_python5)
 特徴量行列の作成
+**データサイエンスへの応用：画像の特徴量行列表現～手書き数字の特徴量とイメージ復元**
+
 ## [10. pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列](https://github.com/ueharaLab/datascience_python6)
 データセットの作成
+
 ## [11. pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列応用](https://github.com/ueharaLab/datascience_python7)
 データセットの作成と演算
+
 
 ## [12. 教師あり機械学習プログラミングの基礎](https://github.com/ueharaLab/datascience_python8)
 既製品データ（Iris、手書き数字）にもとづく教師あり機械学習
